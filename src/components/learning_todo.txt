@@ -1,0 +1,7 @@
+Learning State Todo:
+
+1. Understand React state concepts.
+2. Implement a basic todo list.
+3. Integrate state management for checkboxes.
+4. Experiment with different state hooks (useState, etc.).
+5. Document key learnings and challenges faced during state management.
